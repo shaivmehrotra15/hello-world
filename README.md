@@ -14,3 +14,5 @@ Sorting and other things
 Strings and anagram
 
 Reading on geeksforgeeks and questions
+
+functions and methods
