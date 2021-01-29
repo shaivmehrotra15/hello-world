@@ -20,3 +20,5 @@ functions and methods
 access modifires and packages
 
 encapculation
+
+inheritance and static keyword
